@@ -14,7 +14,7 @@ npm install
 npm start
 ```
 ## Usage
-* Create a server.js file using this code:
+* Created a app.js file using this code:
 ```javascript
   const hapi = require("hapi");
   const joi = require("joi");
@@ -45,4 +45,4 @@ npm start
 ```
 
 
-Built with :heart: by [Ruslan Raupov](https://github.com/ruslanraupov)
+Built with  :heart:  by [Ruslan Raupov](https://github.com/ruslanraupov)
