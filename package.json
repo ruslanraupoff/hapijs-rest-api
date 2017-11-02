@@ -1,0 +1,20 @@
+{
+  "name": "hapi-rest-api",
+  "version": "1.0.0",
+  "description": "Rest API with Hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/.bin/nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Ruslan Raupov",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.6.2",
+    "joi": "^13.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
